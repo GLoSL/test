@@ -19,3 +19,4 @@ var fn_init = function() {
 }
 
 console.log(fn_init());
+//com
